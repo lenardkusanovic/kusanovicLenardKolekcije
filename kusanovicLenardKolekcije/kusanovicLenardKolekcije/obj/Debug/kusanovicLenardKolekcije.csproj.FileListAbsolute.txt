@@ -1,0 +1,7 @@
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\obj\Debug\kusanovicLenardKolekcije.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\obj\Debug\kusanovicLenardKolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\bin\Debug\kusanovicLenardKolekcije.exe.config
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\bin\Debug\kusanovicLenardKolekcije.exe
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\bin\Debug\kusanovicLenardKolekcije.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\obj\Debug\kusanovicLenardKolekcije.exe
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardKolekcije\kusanovicLenardKolekcije\obj\Debug\kusanovicLenardKolekcije.pdb
